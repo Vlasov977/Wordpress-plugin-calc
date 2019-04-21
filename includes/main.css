@@ -1,0 +1,85 @@
+.epc-font-size-16 {
+    font-size: 16px;
+}
+
+.epc-font-size-15 {
+    font-size: 15px;
+}
+
+.epc-font-size-14 {
+    font-size: 14px;
+}
+
+.epc-font-size-13 {
+    font-size: 13px;
+}
+
+
+.epc-table-font-size {
+    font-size: 14px;
+}
+
+
+.epc-w-50-auto {
+    width: auto!important;
+}
+
+
+@media (min-width: 400px) {
+    .epc-w-50-auto {
+        width: 50%!important;
+    }
+}
+
+
+.epc-table-responsive {
+
+}
+
+.epc-table-responsive th {
+    font-size: 9px;
+    line-height: 10px;
+}
+
+.epc-table-responsive td {
+    font-size: 9px;
+    line-height: 10px;
+}
+
+.epc-table-responsive input {
+    margin: 0;
+    width: auto;
+    padding: 0;
+}
+
+
+/* Small devices (landscape phones, 576px and up)*!*/
+@media (min-width: 576px) {
+    .epc-table-mobile {
+        font-size: 100%;
+    }
+    .epc-table-responsive th {
+        font-size: 100%;
+        line-height: inherit;
+    }
+
+    .epc-table-responsive td {
+        font-size: 100%;
+        line-height: inherit;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
